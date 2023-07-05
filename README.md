@@ -21,7 +21,7 @@ Used for styling the elements and making the application visually appealing.
 Used to implement the dynamic functionality of the To-Do List, such as adding and removing tasks and updating their status.
 
 ## Features
-You can easily add new tasks to your to-do list by typing them into the input field and clicking the `Add` button.
+You can easily add new tasks by typing into the input field and clicking the `Add` button.
 Once you have finished a task, you can mark it as completed by clicking the `checkbox` before the task.
 If a task is no longer needed, you can delete it by clicking the `x` icon.
 
@@ -34,6 +34,22 @@ Implementing a feature that allows users to prioritize tasks based on their impo
 Adding the ability to categorize tasks into different groups or labels for better organization.
 #### User authentication : 
 Implementing a login system to allow multiple users to manage their individual to-do lists.
+
+# Task-2 : User Grid Application
+
+This repository contains the code for a User Grid application, which fetches user details from an API and displays them in a grid format. This project was completed as part of my Internship tasks.
+
+## Features
+
+- Fetches user details from an API
+- Displays user information in a grid layout
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- API : https://reqres.in/api/users?page=1
 
 ## Acknowledgments
 I would like to express my gratitude to `@LetsGrowMore` for providing me with the opportunity to work on this project and gain valuable experience. Special thanks to `@LetsGrowMore Community` for their guidance and support throughout the internship.
