@@ -21,9 +21,9 @@ Used for styling the elements and making the application visually appealing.
 Used to implement the dynamic functionality of the To-Do List, such as adding and removing tasks and updating their status.
 
 ## Features
-You can easily add new tasks to your to-do list by typing them into the input field and pressing enter or clicking the `Add` button.
-Once you have finished a task, you can mark it as completed by clicking the `checkbox` before to the task.
-If a task is no longer needed, you can delete it from the list by clicking the `x` icon.
+You can easily add new tasks to your to-do list by typing them into the input field and clicking the `Add` button.
+Once you have finished a task, you can mark it as completed by clicking the `checkbox` before the task.
+If a task is no longer needed, you can delete it by clicking the `x` icon.
 
 ## Future Improvements
 As this is my first project as an Intern, there is always room for improvement. Here are some ideas for future enhancements:
@@ -37,5 +37,3 @@ Implementing a login system to allow multiple users to manage their individual t
 
 ## Acknowledgments
 I would like to express my gratitude to `@LetsGrowMore` for providing me with the opportunity to work on this project and gain valuable experience. Special thanks to `@LetsGrowMore Community` for their guidance and support throughout the internship.
-
-Feel free to explore the project and provide any feedback or suggestions. I hope you find this To-Do List application useful!
