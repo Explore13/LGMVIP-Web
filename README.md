@@ -51,5 +51,19 @@ This repository contains the code for a User Grid application, which fetches use
 - JavaScript
 - API : https://reqres.in/api/users?page=1
 
+# Task-3 : Registration Form with Data Display
+This repository contains a simple web application that implements a registration form using HTML, CSS, and JavaScript. The entered data is displayed on the same page dynamically without requiring a page refresh.
+
+## Features
+- Registration form with input fields for `Name`, `Email`, `Image`, `Website`, `Skills`.
+- Dynamic display of entered data without page refresh.
+- Responsive design to adapt to different screen sizes.
+## Technologies Used
+The following technologies were used to develop this application:
+
+- HTML
+- CSS
+- JavaScript
+
 ## Acknowledgments
 I would like to express my gratitude to `@LetsGrowMore` for providing me with the opportunity to work on this project and gain valuable experience. Special thanks to `@LetsGrowMore Community` for their guidance and support throughout the internship.
